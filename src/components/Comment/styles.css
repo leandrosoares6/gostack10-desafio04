@@ -1,0 +1,35 @@
+li {
+  display: flex;
+  list-style: none;
+}
+
+div.content {
+  display: flex;
+  align-items: center;
+}
+
+div.content img {
+  padding-right: 10px;
+}
+
+div.content div {
+  background-color: #EEEEEE;
+  border-radius: 20px;
+  padding: 10px 10px;
+  margin: 10px 10px;
+}
+
+span {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: #3E3E3E;
+  line-height: 20px;
+}
+
+.label {
+  font-style: normal;
+  font-size: 13px;
+  font-weight: bold;
+  color: #3E3E3E;
+}

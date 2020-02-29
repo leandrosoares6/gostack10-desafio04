@@ -1,0 +1,37 @@
+header {
+  width: 100%;
+  height: 100%;
+  background: #4A90E2;
+  padding: 10px 0;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-content .fb-logo {
+  padding-left: 40px;
+}
+
+.menu-ac {
+  display: flex;
+  align-items: center;
+}
+
+.menu-ac p {
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 21px;
+  text-align: center;
+  color: #FFFFFF;
+  padding-top: 7px;
+}
+
+.menu-ac .ac-logo {
+  color: #FFFFFF;
+  padding: 0 40px 0 15px;
+}

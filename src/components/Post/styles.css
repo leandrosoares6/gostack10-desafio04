@@ -1,0 +1,48 @@
+div.container {
+  padding: 30px 30px;
+}
+
+div.profile-content {
+  display: flex;
+  align-items: center;
+}
+
+div.profile-content img {
+  padding-right: 10px;
+}
+
+div.profile-content p {
+  margin: 3px 0;
+}
+
+div.profile-content p.name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  color: #4A4A4A;
+}
+
+div.profile-content p.date {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  color: #9A9A9A;
+}
+
+div.container p.content {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: #3E3E3E;
+}
+
+div.profile-content .profile-data {
+  display: flex;
+  flex-direction: column;
+}
+
+p.line-divisor {
+  height: 1px;
+  margin: 20px 0;
+  background: #EEEEEE;
+}
